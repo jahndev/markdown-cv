@@ -11,15 +11,32 @@ Engineer, Developer.
 </div>
 
 ### Specialized in
-
 Design and implementation of robust backend solutions in ecommerce, insurance and ebacking areas, following standars and patterns, that include APIs, ETL, asynchronous and synchronous flows, mantinance, refactors, performance analisys, integrations, documentation, use of multiple Agile metodologies. 
 
+### Skills
+Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience
+    
+### Languages
+Java, Kotlin, Scala and Perl
+### Other Languages Used
+Groovy, Perl, PHP, PL/SQL, SQL, CSS, HTML, Type Script, Bash
+### Experience with
+Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST
+
+### Languages
+English
+Spanish (Native)
+Also Learning:
+Portuguese
+Germany
+
+# Work Experience
 ## Currently
 `OCT 2020 - PRESENT`
 ### Estee Lauder Company ELC, London — Backend Developer
 Introducing changes in order to enable features in the backend layer based on a micro-service and distributed architecture, pushing them until to go production environment, following CI-CD metodologies working closely with Release Managers, DevOps and colaborating in test and cuality certification process, also troubleshooting, monitoring and documentation tasks. 
 
-## Experience
+## I also worked with
 `JUL 2017 - 2020`
 Globant - GLOB (NYSE)
 ### Client: Google LLC.
@@ -28,7 +45,6 @@ Supervisor: Viviana Corella vcorella@google.com
 Collaboration in the development of back-end services for a new Product for PYMEs in the platform GBusiness following an EDA architecture using tools like gRPC/Protobuf, Guice, Bazel, BloomRPC, Google Cloud Platform and Spanner.
 
 ### Client: OLX – Naspers
-Java 8, Scala, Dropwizard, kafka, MariaDB, Docker, Linux, microservices, api rest, aws
 Deliver new features, care for the quality of code, follow best practices, using design patterns, made all software cycle: documenting, analyze, develop and deploy in test, staging and production environments, monitoring of performance, concurrency, latency and others like cost execution, refactoring and optimization. support the develop team in technical approaches. time estimations to know what features can be done, taking in concern the business priorities and the team capacity, following agile practices like scrum and lean.
 
 ### Research interests
