@@ -17,9 +17,21 @@ Design and implementation of robust backend solutions in ecommerce, insurance an
 Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience
     
 ### Languages
-Java, Kotlin, Scala and Perl
+Java
+Kotlin
+Scala
+
 ### Other Languages Used
-Groovy, Perl, PHP, PL/SQL, SQL, CSS, HTML, Type Script, Bash
+Groovy
+Perl
+PHP
+PL/SQL
+SQL
+CSS
+HTML
+Type Script
+Bash
+
 ### Experience with
 Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST
 
