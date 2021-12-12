@@ -7,13 +7,15 @@ Engineer, Developer.
 
 <div id="webaddress">
 <a href="jahn.developer@gmail.org">jahn.developer@gmail.org</a>
-| <a href="https://www.linkedin.com/in/jahnarellano">My Ln profile</a>
+| <a href="https://www.linkedin.com/in/jahnarellano">My Linkedin</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Estee Lauder Company ELC, London — Backend Developer
+OCTOBER 2020 - PRESENT
+Tech support to enable migration of web sites from use a legacy back-end system to a new one based on a micro-service and distributed architecture.
 
 ### Specialized in
 
