@@ -12,9 +12,8 @@ Engineer, Developer.
 
 
 ## Currently
-
-Estee Lauder Company ELC, London — Backend Developer
-OCTOBER 2020 - PRESENT
+`OCTOBER 2020 - PRESENT`
+####Estee Lauder Company ELC, London — Backend Developer
 Tech support to enable migration of web sites from use a legacy back-end system to a new one based on a micro-service and distributed architecture.
 
 ### Specialized in
