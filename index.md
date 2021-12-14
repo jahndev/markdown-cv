@@ -110,13 +110,13 @@ Grade thesis, *Publish mention and Honorific mention: Algorithms to solve ECC ov
 <a href="https://www.github.com/jahndev">GitHub: jahndev</a>
 </div>
 <div id="webaddress">
-<a href="https://www.stackoverflow.com/users/6899139/jahndev">stackoverflow: jahndev</a>
+<a href="https://www.stackoverflow.com/users/6899139/jahndev">Stackoverflow: jahndev</a>
 </div>
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/jahnarellano">linkedin: jahnarellano</a>
+<a href="https://www.linkedin.com/in/jahnarellano">Linkedin: jahnarellano</a>
 </div>
 <div id="webaddress">
-<a href="https://www.twitter.com/jahnarellano">twitter: jahnarellano</a>
+<a href="https://www.twitter.com/jahnarellano">Twitter: jahnarellano</a>
 </div>
 
 ## References
