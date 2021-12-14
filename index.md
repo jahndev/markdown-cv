@@ -127,7 +127,9 @@ Grade thesis, *Publish mention and Honorific mention: Algorithms to solve ECC ov
 <a href="https://twitter.com/jahnarellano">https://twitter.com/jahnarellano</a>
 | <a href="https://twitter.com/jahnarellano">jahnarellano on Twitter</a>
 </div>
+
 ## References
+
 ![image](https://user-images.githubusercontent.com/26445251/145704308-f5bb6060-237d-4c39-b383-defeffc1ed9e.png)
 
 
