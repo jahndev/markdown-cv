@@ -106,10 +106,6 @@ Grade thesis, *Publish mention and Honorific mention: Algorithms to solve ECC ov
 ![image](https://user-images.githubusercontent.com/26445251/145702128-c7ffca26-7ed0-49d1-9379-79f16d0ffec4.png)
 
 ## On Line References
-* Stack Overflow: https://stackoverflow.com/users/6899139/jahndev
-* Linkedin: www.linkedin.com/in/jahnarellano
-* Twitter: https://twitter.com/jahnarellano
-
 <div id="webaddress">
 <a href="https://www.github.com/jahndev">GitHub: jahndev</a>
 </div>
