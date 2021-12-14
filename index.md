@@ -106,26 +106,21 @@ Grade thesis, *Publish mention and Honorific mention: Algorithms to solve ECC ov
 ![image](https://user-images.githubusercontent.com/26445251/145702128-c7ffca26-7ed0-49d1-9379-79f16d0ffec4.png)
 
 ## On Line References
-* GitHub: https://github.com/jahndev
 * Stack Overflow: https://stackoverflow.com/users/6899139/jahndev
 * Linkedin: www.linkedin.com/in/jahnarellano
 * Twitter: https://twitter.com/jahnarellano
 
 <div id="webaddress">
-<a href="https://github.com/jahndev">jahndev in GitHub</a>
-| <a href="https://github.com/jahndev">jahndev Github</a>
+<a href="https://www.github.com/jahndev">GitHub: jahndev</a>
 </div>
 <div id="webaddress">
-<a href="https://stackoverflow.com/users/6899139/jahndev">jahndev in stackoverflow</a>
-| <a href="https://stackoverflow.com/users/6899139/jahndev">jahndev Stackoverflow</a>
+<a href="https://www.stackoverflow.com/users/6899139/jahndev">stackoverflow: jahndev</a>
 </div>
 <div id="webaddress">
-<a href="www.linkedin.com/in/jahnarellano">www.linkedin.com/in/jahnarellano</a>
-| <a href="https://www.linkedin.com/in/jahnarellano">jahnarellano on Linkedin</a>
+<a href="https://www.linkedin.com/in/jahnarellano">linkedin: jahnarellano</a>
 </div>
 <div id="webaddress">
-<a href="https://twitter.com/jahnarellano">https://twitter.com/jahnarellano</a>
-| <a href="https://twitter.com/jahnarellano">jahnarellano on Twitter</a>
+<a href="https://www.twitter.com/jahnarellano">twitter: jahnarellano</a>
 </div>
 
 ## References
