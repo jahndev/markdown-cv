@@ -4,23 +4,18 @@ title: Jahn Arellano's CV
 ---
 # Jahn Arellano
 Engineer, Developer.
-
 <div id="webaddress">
 <a href="jahn.developer@gmail.org">jahn.developer@gmail.org</a>
 | <a href="https://www.linkedin.com/in/jahnarellano">My Linkedin</a>
 </div>
-
 ### Specialized in
 Design and implementation of robust backend solutions in ecommerce, insurance and ebacking areas, following standars and patterns, that include APIs, ETL, asynchronous and synchronous flows, mantinance, refactors, performance analisys, integrations, documentation, use of multiple Agile metodologies. 
-
 ### Skills
 Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience
-    
 ### Languages
 Java
 Kotlin
 Scala
-
 ### Other Languages Used
 Groovy
 Perl
@@ -31,10 +26,8 @@ CSS
 HTML
 Type Script
 Bash
-
 ### Experience with
 Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST
-
 ### Languages
 English
 Spanish (Native)
@@ -47,7 +40,7 @@ Germany
 ### Client  ELC Estee Lauder Company
 ### Role    Backend Developer
 `OCT 2020 - PRESENT`
-Introducing changes in order to enable features in the backend layer based on a micro-service and distributed architecture, pushing them until to go production environment, following CI-CD metodologies working closely with Release Managers, DevOps and colaborating in test and cuality certification process, also troubleshooting, monitoring and documentation tasks. 
+Introducing changes in order to enable features in the backend layer based on a micro-service and distributed architecture, pushing them until to go production environment, following CI-CD metodologies working closely with Release Managers, DevOps and colaborating in test and quality certification process, also troubleshooting, monitoring and documentation tasks. 
 
 ## I also worked with
 
