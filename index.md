@@ -10,13 +10,13 @@ Engineer, Developer.
 </div>
 ### Specialized in
 Design and implementation of robust backend solutions in e-commerce, insurance and fintech including APIs, ETL, asynchronous/synchronous flows, mantinance, refactors, performance analisys, integrations, documentation and troubleshooting in multiple environments even production. use of multiple Agile metodologies. 
-### Skills
-Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience, Development, Testing.
-### Principal Programming Languages
+### Hard Skills
+Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST, HTML, CSS, YML, XML, XHTML
+#### Principal Programming Languages
 Java
 Kotlin
 Scala
-### Secundary Programming Languages
+#### Secundary Programming Languages
 Groovy
 Perl
 PHP
@@ -24,8 +24,9 @@ PL/SQL
 SQL
 Type Script
 Bash
-### Last but not Least
-Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST, HTML, CSS, YML, XML, XHTML
+
+### Soft Skills
+Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience, Development, Testing.
 ### Languages
 English
 Spanish (Native)
