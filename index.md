@@ -9,29 +9,27 @@ Engineer, Developer.
 | <a href="https://www.linkedin.com/in/jahnarellano">My Linkedin</a>
 </div>
 ### Specialized in
-Design and implementation of robust backend solutions in ecommerce, insurance and ebacking areas, following standars and patterns, that include APIs, ETL, asynchronous and synchronous flows, mantinance, refactors, performance analisys, integrations, documentation, use of multiple Agile metodologies. 
+Design and implementation of robust backend solutions in e-commerce, insurance and fintech including APIs, ETL, asynchronous/synchronous flows, mantinance, refactors, performance analisys, integrations, documentation and troubleshooting in multiple environments even production. use of multiple Agile metodologies. 
 ### Skills
-Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience
-### Languages
+Mentorship, self learner, proactive, multi time zones and multi cultural team experience, prone to take ownership, negotiation, cross team experience, Development, Testing.
+### Principal Programming Languages
 Java
 Kotlin
 Scala
-### Other Languages Used
+### Secundary Programming Languages
 Groovy
 Perl
 PHP
 PL/SQL
 SQL
-CSS
-HTML
 Type Script
 Bash
-### Experience with
-Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST
+### Last but not Least
+Gradle, Maven, GraphQL. Github, Jenkins, Sumo Logic, New Relic, Grafana, Kafka, Redis, memcached, AWS, GCP, Dropwizard, MariaDB, Docker, Linux, REST, HTML, CSS, YML, XML, XHTML
 ### Languages
 English
 Spanish (Native)
-Also Learning:
+#### Also Learning:
 Portuguese
 Germany
 
