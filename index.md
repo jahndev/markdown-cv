@@ -5,7 +5,7 @@ title: Jahn Arellano's CV
 # Jahn Arellano
 Engineer, Developer.
 <div id="webaddress">
-<a href="jahn.developer@gmail.org">jahn.developer@gmail.org</a>
+<a href="jahn.developer@gmail.com">jahn.developer@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jahnarellano">My Linkedin</a>
 </div>
 ### Specialized in
