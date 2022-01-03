@@ -35,13 +35,11 @@ Portuguese
 Germany
 
 # Work Experience
-### Company AgileEngine/DedicatedTeams
-### Client  ELC Estee Lauder Company
-### Role    Backend Developer
+Company AgileEngine/DedicatedTeams
+Client  ELC Estee Lauder Company
+Role    Backend Developer
 `OCT 2020 - PRESENT`
 Introducing changes in order to enable features in the backend layer based on a micro-service and distributed architecture, pushing them until to go production environment, following CI-CD metodologies working closely with Release Managers, DevOps and colaborating in test and quality certification process, also troubleshooting, monitoring and documentation tasks. 
-
-## I also worked with
 
 ### Company Globant
 ### Role    Backend Developer Senior
